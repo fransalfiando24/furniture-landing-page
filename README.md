@@ -1,2 +1,3 @@
 # Furniture Landing Page
-# Made with React JS
+This is website for Furniture Shop 
+Built with React JS, and using GSAP and AOS for animation.
