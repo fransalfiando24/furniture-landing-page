@@ -1,0 +1,30 @@
+.apartment{
+    margin-top: 100px;
+    width: 100%;
+    height: 100vh;
+    background: url(../../asset/bg3.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.apartmentTitle{
+    text-align: center;
+    color: #f3f3f3;
+}
+
+.apartmentTitle .title{
+    font-size: 70px;
+    font-weight: 500;
+    letter-spacing: 5px;
+    color: #f3f3f3;
+    margin-bottom: 20px;
+}
+
+.apartmentTitle p{
+    text-decoration: underline;
+    font-size: 18px;
+}

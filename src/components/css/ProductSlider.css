@@ -1,0 +1,39 @@
+img.img-product{
+    width: 530px;
+    height: 400px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.slider-product{
+    overflow: hidden;
+    margin-top: -150px;
+}
+
+.slider{
+    width: 100%;
+    border: none;
+    outline: none;
+}
+
+.img-container{
+    border: none;
+    outline: none;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+
+.img-container h1{
+    width: 530px;
+    height: 400px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 1;
+    color: #f3f3f3;
+    font-size: 50px;
+}
