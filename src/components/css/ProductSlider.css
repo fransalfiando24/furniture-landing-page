@@ -36,4 +36,5 @@ img.img-product{
     z-index: 1;
     color: #f3f3f3;
     font-size: 50px;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, .3);
 }

@@ -6,6 +6,7 @@ import './css/ProductSlider.css'
 import imgProduct1 from '../asset/bg.jpg'
 import imgProduct2 from '../asset/bg2.jpg'
 import imgProduct3 from '../asset/bg3.jpg'
+import imgProduct5 from '../asset/bg5.jpg'
 
 export default class ProductSlider extends Component {
   render() {
@@ -62,7 +63,7 @@ export default class ProductSlider extends Component {
           </div>
           <div className="img-container">
             <h1>Product</h1>
-            <img src={imgProduct1} alt="" className="img-product"/>
+            <img src={imgProduct5} alt="" className="img-product"/>
           </div>
           <div className="img-container">
             <h1>Product</h1>
